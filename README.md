@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently tinkering with deep learning models and learning Flutter<br>Computer engineering student • Python instructor<br>Mathematics & AI enthusiast • Music lover<br>Arch/Ubuntu user • Hyprland enjoyer • LaTeX for everything<br>Implemented HBV dynamical system simulation using RK4
+Currently tinkering with deep learning models and learning Flutter<br>Computer engineering student • Python instructor<br>Mathematics & AI enthusiast • Music lover<br>Arch/Ubuntu user • Hyprland enjoyer • LaTeX for everything<br>
 
 
 ## 🌐 Socials:

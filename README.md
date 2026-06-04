@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently tinkering with deep learning models and learning Flutter<br>University student • Python instructor<br>Mathematics & AI enthusiast • Music lover<br>Arch/Ubuntu user • Hyprland enjoyer • LaTeX for everything<br>Implemented HBV dynamical system simulation using RK4
+Currently tinkering with deep learning models and learning Flutter<br>Computer engineering student • Python instructor<br>Mathematics & AI enthusiast • Music lover<br>Arch/Ubuntu user • Hyprland enjoyer • LaTeX for everything<br>Implemented HBV dynamical system simulation using RK4
 
 
 ## 🌐 Socials:
@@ -11,5 +11,3 @@ Currently tinkering with deep learning models and learning Flutter<br>University
 ![](https://github-readme-stats.shion.dev/api?username=ABohlool&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
 <!-- ![](https://streak-stats.demolab.com/?user=ABohlool&theme=synthwave&hide_border=false)<br/> -->
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ABohlool&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
